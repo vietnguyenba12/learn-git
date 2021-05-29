@@ -22,3 +22,5 @@ working dir //when file not yet added
 git checkout -- <fileName> // discard the changes in working dir
   
 git reset HEAD <fileName> // unstage, exchange from staging area to working dir
+
+git branch
