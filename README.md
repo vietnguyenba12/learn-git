@@ -48,3 +48,7 @@ git merge // merge branch A --> branch B
   git remove add origin <link>
   
   git push -u origin master/main
+  
+  git clone 
+  
+  git pull
