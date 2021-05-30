@@ -52,3 +52,9 @@ git merge // merge branch A --> branch B
   git clone 
   
   git pull
+
+  git push origin <branchName> // push branch to github
+  
+  git remove -v
+  
+  git fetch origin <branchName>
